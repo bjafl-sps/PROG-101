@@ -37,9 +37,9 @@ Effective collaboration and version control enhance team productivity, reduce er
 Understanding version control and collaborating effectively allows programmers to work together seamlessly, ensuring that projects progress smoothly and enabling the creation of robust and successful software! 🚀👨‍💻🌐
 
 
-> ### Next part
-> This is the end of the part *Core Aspects of Programming*.
-> The next part is *[Programming Languages](/Docs/02_Programming-Languages.md)*
+> ### Next module
+> This is the end of the module *Core Aspects of Programming*.
+> The next module is *[Programming Languages](/Docs/02_Programming-Languages.md)*
 
 
 &nbsp;

@@ -20,3 +20,6 @@ Get ready to explore and have loads of fun while learning programming! 🚀✨
 
 # Venture forth!
 1. [Core aspects of programming](01_Core-Aspects.md)
+
+### *Any questions?*
+*[Submit here](https://github.com/bjafl-sps/PY-101/discussions/new?category=q-a&labels=question%20about%20course%20material&title=%23INSERT_TITLE%23%20(from%3A00_Intro.md))*

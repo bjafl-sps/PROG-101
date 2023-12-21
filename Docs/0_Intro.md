@@ -19,4 +19,4 @@ Remember, programming is like solving fun puzzles and being a superhero who tell
 Get ready to explore and have loads of fun while learning programming! 🚀✨
 
 # Venture forth!
-1. [Core aspects of programming](1_Core_Aspects.md)
+1. [Core aspects of programming](1_Core-Aspects.md)

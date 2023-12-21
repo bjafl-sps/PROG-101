@@ -27,3 +27,5 @@ Abstraction and modularity contribute to the clarity and organization of code. T
 By employing abstraction and modularity, programmers create well-structured, scalable, and maintainable software. They enable the building of adaptable systems that can evolve and grow without becoming overly complicated or difficult to manage.
 
 Understanding and implementing abstraction and modularity are key steps towards writing cleaner, more organized, and efficient code! 🌟🔧
+
+*[Next page&rarr;](8_Data-structures.md)*

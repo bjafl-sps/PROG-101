@@ -25,3 +25,5 @@ Programmers use a variety of tools and techniques for debugging and testing, suc
 Debugging and testing are crucial for writing reliable and high-quality software. They help in delivering bug-free, robust, and efficient programs, enhancing user experience and ensuring that software performs its intended tasks accurately.
 
 By embracing debugging and testing practices, programmers ensure their code is reliable, resilient, and capable of handling various scenarios, contributing to the development of better software! 🚀🛠️
+
+*[Next page&rarr;](7_Abstraction-and-modularity.md)*

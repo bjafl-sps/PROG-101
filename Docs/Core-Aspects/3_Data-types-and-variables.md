@@ -15,3 +15,5 @@ In the world of programming, understanding **data types** and **variables** is a
 Understanding data types and variables is fundamental in programming as they form the backbone of how information is handled and processed. They enable programmers to store, modify, and retrieve data efficiently, allowing for dynamic and versatile program functionality.
 
 As you venture further into the world of programming, mastering data types and effectively utilizing variables will unlock a myriad of possibilities, enabling you to create diverse and powerful applications! 🌟👨‍💻🌐
+
+*[Next page&rarr;](4_Control-structures.md)*

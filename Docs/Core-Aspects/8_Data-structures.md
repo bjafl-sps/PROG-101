@@ -29,3 +29,5 @@ Data structures are the backbone of computer algorithms. By choosing the right d
 Data structures find applications in various domains, from databases and operating systems to game development and artificial intelligence. Mastering data structures empowers programmers to design efficient, scalable, and high-performance software.
 
 Understanding and utilizing data structures effectively enables programmers to create elegant solutions to complex problems, contributing to the development of innovative and impactful software! 🌐🚀
+
+*[Next page&rarr;](9_Object-Oriented-Programming.md)*

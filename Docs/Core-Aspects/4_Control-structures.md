@@ -21,3 +21,5 @@ In programming, **control structures** are the tools that determine the flow of 
 Control structures are the building blocks of programming logic. They give you the power to make your code smarter and more dynamic. By using these structures, you can create programs that adapt to different situations, perform repetitive tasks efficiently, and manage code more effectively.
 
 Understanding control structures is key to writing more sophisticated and functional code. They empower you to create programs that respond intelligently to different scenarios, making your code more powerful and versatile! 🌟👨‍💻
+
+*[Next page&rarr;](5_Algorithms.md)*

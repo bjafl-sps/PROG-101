@@ -42,3 +42,7 @@ Understanding version control and collaborating effectively allows programmers t
 &nbsp;
 
 *[&larr;Prev page](09_Object-Oriented-Programming.md)* 
+
+## Next part
+This is the end of the part *Core Aspects of Programming*.
+The next part is *[Programming Languages](/Docs/02_Programming-Languages.md)*

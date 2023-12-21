@@ -1,6 +1,7 @@
 *[&larr;Back to Intro](../00_Intro.md)*
 
-# Table of Contents (TOC)
+# Core aspects of protramming
+## Table of Contents (TOC)
 
 1. [Problem Solving](01_Problem-Solving.md)
 2. [Syntax and logic](02_Syntax-and-logic.md)
@@ -13,6 +14,10 @@
 9. [Object Oriented Programming](09_Object-Oriented-Programming.md)
 10. [Version Control and Collaboration](10_Version-Control-and-Collaboration.md)
 
+
+## See also
+- [Programming Languages](/Docs/02_Programming-Languages.md)
+- [Next Steps](/Docs/99_Next_Steps.md)
 
 &nbsp;
 

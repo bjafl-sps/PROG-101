@@ -19,3 +19,5 @@ When you write code, you're giving instructions to the computer to solve a probl
 Remember, everyone faces tricky problems while programming. It's normal! The fun part is using your creativity and logical thinking to find solutions. And the feeling when your code works perfectly? That's like finding the hidden treasure at the end of the maze! 🎉
 
 So, grab your keyboard and let's dive into the adventure of problem-solving in programming! You've got this! 💻🌟
+
+*[Next page&rarr;](2_Problem-Solving.md)*

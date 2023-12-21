@@ -1,4 +1,4 @@
-*[&larr;Back to TOC](0_TOC.md)*
+*[&larr;Back to TOC](00_TOC.md)*
 
 # Embracing Version Control and Collaboration in Programming
 
@@ -36,4 +36,4 @@ Effective collaboration and version control enhance team productivity, reduce er
 
 Understanding version control and collaborating effectively allows programmers to work together seamlessly, ensuring that projects progress smoothly and enabling the creation of robust and successful software! 🚀👨‍💻🌐
 
-*[&larr;Prev page](9_Object-Oriented-Programming.md)* 
+*[&larr;Prev page](09_Object-Oriented-Programming.md)* 

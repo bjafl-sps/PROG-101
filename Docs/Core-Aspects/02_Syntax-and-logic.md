@@ -1,4 +1,4 @@
-*[&larr;Back to TOC](0_TOC.md)*
+*[&larr;Back to TOC](00_TOC.md)*
 
 # Understanding Syntax and Logic in Programming
 
@@ -14,4 +14,4 @@ When you step into the world of programming, you encounter two essential concept
 
 Understanding syntax and logic is crucial for writing code that works as intended. It's like learning the language and structure needed to convey your ideas effectively to the computer. As you delve deeper into programming, mastering these concepts will empower you to create amazing things with code! 🚀✨
 
-*[&larr;Prev page](1_Problem-Solving.md)* *[Next page&rarr;](3_Data-types-and-variables.md)*
+*[&larr;Prev page](01_Problem-Solving.md)* | *[Next page&rarr;](03_Data-types-and-variables.md)*

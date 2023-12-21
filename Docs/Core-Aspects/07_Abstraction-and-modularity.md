@@ -1,4 +1,4 @@
-*[&larr;Back to TOC](0_TOC.md)*
+*[&larr;Back to TOC](00_TOC.md)*
 
 # Demystifying Abstraction and Modularity in Programming
 
@@ -28,4 +28,4 @@ By employing abstraction and modularity, programmers create well-structured, sca
 
 Understanding and implementing abstraction and modularity are key steps towards writing cleaner, more organized, and efficient code! 🌟🔧
 
-*[&larr;Prev page](6_Debugging-and-testing.md)* *[Next page&rarr;](8_Data-structures.md)*
+*[&larr;Prev page](06_Debugging-and-testing.md)* | *[Next page&rarr;](08_Data-structures.md)*

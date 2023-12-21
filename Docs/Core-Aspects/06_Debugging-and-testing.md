@@ -1,4 +1,4 @@
-*[&larr;Back to TOC](0_TOC.md)*
+*[&larr;Back to TOC](00_TOC.md)*
 
 # Understanding Debugging and Testing in Programming
 
@@ -26,4 +26,4 @@ Debugging and testing are crucial for writing reliable and high-quality software
 
 By embracing debugging and testing practices, programmers ensure their code is reliable, resilient, and capable of handling various scenarios, contributing to the development of better software! 🚀🛠️
 
-*[&larr;Prev page](5_Algorithms.md)* *[Next page&rarr;](7_Abstraction-and-modularity.md)*
+*[&larr;Prev page](05_Algorithms.md)* | *[Next page&rarr;](07_Abstraction-and-modularity.md)*

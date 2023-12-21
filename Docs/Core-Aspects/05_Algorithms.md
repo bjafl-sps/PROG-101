@@ -1,4 +1,4 @@
-*[&larr;Back to TOC](0_TOC.md)*
+*[&larr;Back to TOC](00_TOC.md)*
 
 # Unveiling Algorithms in Programming
 
@@ -22,4 +22,4 @@ Algorithms are everywhere in the digital world – from search engine algorithms
 
 Understanding algorithms equips programmers with the tools to develop smarter, faster, and more optimized solutions to various problems, contributing to the creation of innovative and impactful software! 🚀👩‍💻
 
-*[&larr;Prev page](4_Control-structures.md)* *[Next page&rarr;](6_Debugging-and-testing.md)*
+*[&larr;Prev page](04_Control-structures.md)* | *[Next page&rarr;](06_Debugging-and-testing.md)*

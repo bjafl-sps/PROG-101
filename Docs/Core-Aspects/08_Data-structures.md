@@ -1,4 +1,4 @@
-*[&larr;Back to TOC](0_TOC.md)*
+*[&larr;Back to TOC](00_TOC.md)*
 
 # Exploring Data Structures in Programming
 
@@ -30,4 +30,4 @@ Data structures find applications in various domains, from databases and operati
 
 Understanding and utilizing data structures effectively enables programmers to create elegant solutions to complex problems, contributing to the development of innovative and impactful software! 🌐🚀
 
-*[&larr;Prev page](7_Abstraction-and-modularity.md)* *[Next page&rarr;](9_Object-Oriented-Programming.md)*
+*[&larr;Prev page](07_Abstraction-and-modularity.md)* | *[Next page&rarr;](09_Object-Oriented-Programming.md)*

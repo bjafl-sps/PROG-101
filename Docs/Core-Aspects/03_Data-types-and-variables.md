@@ -16,4 +16,4 @@ Understanding data types and variables is fundamental in programming as they for
 
 As you venture further into the world of programming, mastering data types and effectively utilizing variables will unlock a myriad of possibilities, enabling you to create diverse and powerful applications! 🌟👨‍💻🌐
 
-*[&larr;Prev page](2_Syntax-and-logic.md)* *[Next page&rarr;](4_Control-structures.md)*
+*[&larr;Prev page](02_Syntax-and-logic.md)* | *[Next page&rarr;](04_Control-structures.md)*

@@ -20,4 +20,4 @@ Remember, everyone faces tricky problems while programming. It's normal! The fun
 
 So, grab your keyboard and let's dive into the adventure of problem-solving in programming! You've got this! 💻🌟
 
-*[Next page&rarr;](2_Problem-Solving.md)*
+*[Next page&rarr;](2_Syntax-and-logic.md)*

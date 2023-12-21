@@ -1,4 +1,4 @@
-*[Back to TOC](0_TOC.md)*
+*[&larr;Back to TOC](0_TOC.md)*
 
 # Exploring Data Types and Variables in Programming
 

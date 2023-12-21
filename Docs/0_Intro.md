@@ -1,4 +1,4 @@
-# Introduction to Programming for Young Students
+# PROG101: Introduction to Programming 
 
 Hey there! 🌟 Are you ready to embark on an amazing journey into the world of programming? Imagine having the power to tell your computer exactly what to do, like a magical spell that makes things happen on the screen!
 
@@ -17,3 +17,6 @@ To begin, you'll learn the basics of a programming language. Don't worry, these 
 Remember, programming is like solving fun puzzles and being a superhero who tells computers what to do. It's okay if things seem a bit tricky at first - that's part of the adventure! Soon enough, you'll be creating your own magic using code.
 
 Get ready to explore and have loads of fun while learning programming! 🚀✨
+
+# Venture forth!
+1. [Core aspects of programming](1_Core_Aspects.md)

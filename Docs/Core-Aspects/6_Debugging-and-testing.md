@@ -26,4 +26,4 @@ Debugging and testing are crucial for writing reliable and high-quality software
 
 By embracing debugging and testing practices, programmers ensure their code is reliable, resilient, and capable of handling various scenarios, contributing to the development of better software! 🚀🛠️
 
-*[Next page&rarr;](7_Abstraction-and-modularity.md)*
+*[&larr;Prev page](5_Algorithms.md)* *[Next page&rarr;](7_Abstraction-and-modularity.md)*

@@ -30,4 +30,4 @@ Data structures find applications in various domains, from databases and operati
 
 Understanding and utilizing data structures effectively enables programmers to create elegant solutions to complex problems, contributing to the development of innovative and impactful software! 🌐🚀
 
-*[Next page&rarr;](9_Object-Oriented-Programming.md)*
+*[&larr;Prev page](7_Abstraction-and-modularity.md)* *[Next page&rarr;](9_Object-Oriented-Programming.md)*

@@ -28,4 +28,4 @@ By employing abstraction and modularity, programmers create well-structured, sca
 
 Understanding and implementing abstraction and modularity are key steps towards writing cleaner, more organized, and efficient code! 🌟🔧
 
-*[Next page&rarr;](8_Data-structures.md)*
+*[&larr;Prev page](6_Debugging-and-testing.md)* *[Next page&rarr;](8_Data-structures.md)*

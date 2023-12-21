@@ -1,3 +1,5 @@
+*[Back to TOC](0_TOC.md)*
+
 # Unveiling Algorithms in Programming
 
 In the realm of programming, **algorithms** are the masterminds behind solving problems and performing specific tasks. They're like carefully crafted recipes that guide computers through step-by-step instructions to achieve desired outcomes. 🧩💡

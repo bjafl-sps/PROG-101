@@ -1,3 +1,5 @@
+*[Back to TOC](0_TOC.md)*
+
 # Understanding Debugging and Testing in Programming
 
 In the world of programming, **debugging** and **testing** are essential practices that ensure code runs smoothly and performs as expected. 🐞🔍💻

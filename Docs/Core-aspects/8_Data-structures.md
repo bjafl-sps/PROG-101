@@ -1,3 +1,5 @@
+*[Back to TOC](0_TOC.md)*
+
 # Exploring Data Structures in Programming
 
 In the vast landscape of programming, **data structures** play a fundamental role in organizing and managing data efficiently. 🗄️💻

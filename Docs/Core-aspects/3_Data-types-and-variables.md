@@ -1,3 +1,5 @@
+*[Back to TOC](0_TOC.md)*
+
 # Exploring Data Types and Variables in Programming
 
 In the world of programming, understanding **data types** and **variables** is akin to handling different kinds of information and storing them in containers. 📦💻

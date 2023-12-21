@@ -1,4 +1,5 @@
-*[Back to TOC]*
+*[Back to TOC](0_TOC.md)*
+
 # Let's talk about problem-solving in programming! 🚀
 
 In programming, problem-solving is like being a detective solving a mystery or putting together pieces of a puzzle. It's about breaking down big problems into smaller, manageable parts. Imagine you're solving a challenging maze where you need to find the best path.

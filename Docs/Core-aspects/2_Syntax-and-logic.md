@@ -1,3 +1,5 @@
+*[Back to TOC](0_TOC.md)*
+
 # Understanding Syntax and Logic in Programming
 
 When you step into the world of programming, you encounter two essential concepts: syntax and logic. 🤔💻

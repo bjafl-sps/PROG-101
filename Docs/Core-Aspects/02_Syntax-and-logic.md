@@ -14,4 +14,9 @@ When you step into the world of programming, you encounter two essential concept
 
 Understanding syntax and logic is crucial for writing code that works as intended. It's like learning the language and structure needed to convey your ideas effectively to the computer. As you delve deeper into programming, mastering these concepts will empower you to create amazing things with code! 🚀✨
 
+&nbsp;
+> ### *Any questions?*
+> *[Submit here](https://github.com/bjafl-sps/PROG-101/discussions/new?category=q-a&labels=question%20about%20course%20material&title=%23INSERT_TITLE%23%20(from%2002_Syntax-and-logic.md))*
+&nbsp;
+
 *[&larr;Prev page](01_Problem-Solving.md)* | *[Next page&rarr;](03_Data-types-and-variables.md)*

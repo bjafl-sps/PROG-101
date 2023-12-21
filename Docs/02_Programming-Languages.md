@@ -61,3 +61,8 @@ Here is a list of some of the languages that are common. They are grouped accord
 - **Python**
 - **R**
 - **SQL**
+
+&nbsp;
+> ### *Any questions?*
+> *[Submit here](https://github.com/bjafl-sps/PROG-101/discussions/new?category=q-a&labels=question%20about%20course%20material&title=%23INSERT_TITLE%23%20(from%2002_Programming-Languages.md))*
+&nbsp;

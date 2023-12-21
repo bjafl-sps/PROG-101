@@ -24,4 +24,4 @@ Get ready to explore and have loads of fun while learning programming! 🚀✨
 &nbsp;
 
 > ### *Any questions?*
-> *[Submit here](/discussions/new?category=q-a&labels=question%20about%20course%20material&title=%23INSERT_TITLE%23%20(from%3A00_Intro.md))*
+> *[Submit here](https://github.com/bjafl-sps/PROG-101/discussions/new?category=q-a&labels=question%20about%20course%20material&title=%23INSERT_TITLE%23%20(from%2000_Intro.md))*

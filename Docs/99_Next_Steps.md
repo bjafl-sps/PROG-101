@@ -18,3 +18,9 @@ Embrace the journey ahead, stay curious, and continue exploring the vast and rew
 
 ## Start now!
 Follow [this link]() to learn python!
+
+
+&nbsp;
+> ### *Any questions?*
+> *[Submit here](https://github.com/bjafl-sps/PROG-101/discussions/new?category=q-a&labels=question%20about%20course%20material&title=%23INSERT_TITLE%23%20(from%2099_Next_Steps.md))*
+&nbsp;

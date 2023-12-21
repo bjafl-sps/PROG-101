@@ -63,6 +63,9 @@ Here is a list of some of the languages that are common. They are grouped accord
 - **SQL**
 
 &nbsp;
-> ### *Any questions?*
+> #### *Any questions?*
 > *[Submit here](https://github.com/bjafl-sps/PROG-101/discussions/new?category=q-a&labels=question%20about%20course%20material&title=%23INSERT_TITLE%23%20(from%2002_Programming-Languages.md))*
-&nbsp;
+
+> #### See also
+> - [Core Aspects of Programming](01_Core-Aspects.md)
+> - [Next Steps](99_Next_Steps.md)

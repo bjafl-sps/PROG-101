@@ -22,6 +22,9 @@ Follow [this link](https://github.com/bjafl-sps/PY-101) to learn python!
 
 
 &nbsp;
-> ### *Any questions?*
+> #### *Any questions?*
 > *[Submit here](https://github.com/bjafl-sps/PROG-101/discussions/new?category=q-a&labels=question%20about%20course%20material&title=%23INSERT_TITLE%23%20(from%2099_Next_Steps.md))*
-&nbsp;
+
+> #### See also
+> - [Core Aspects of Programming](01_Core-Aspects.md)
+> - [Programming Languages](02_Programming-Languages.md)

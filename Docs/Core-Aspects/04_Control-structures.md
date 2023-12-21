@@ -23,7 +23,7 @@ Control structures are the building blocks of programming logic. They give you t
 Understanding control structures is key to writing more sophisticated and functional code. They empower you to create programs that respond intelligently to different scenarios, making your code more powerful and versatile! 🌟👨‍💻
 
 &nbsp;
-> ### *Any questions?*
+> #### *Any questions?*
 > *[Submit here](https://github.com/bjafl-sps/PROG-101/discussions/new?category=q-a&labels=question%20about%20course%20material&title=%23INSERT_TITLE%23%20(from%2004_Control-structures))
 
 *[&larr;Prev page](03_Data-types-and-variables.md)* | *[Next page&rarr;](05_Algorithms.md)*

@@ -31,7 +31,7 @@ Data structures find applications in various domains, from databases and operati
 Understanding and utilizing data structures effectively enables programmers to create elegant solutions to complex problems, contributing to the development of innovative and impactful software! 🌐🚀
 
 &nbsp;
-> ### *Any questions?*
+> #### *Any questions?*
 > *[Submit here](https://github.com/bjafl-sps/PROG-101/discussions/new?category=q-a&labels=question%20about%20course%20material&title=%23INSERT_TITLE%23%20(from%2008_Data-structures.md))*
 &nbsp;
 

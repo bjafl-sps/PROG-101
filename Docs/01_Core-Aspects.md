@@ -37,6 +37,9 @@ OOP is a programming paradigm that organizes code into objects, each containing 
 Learning how to use version control systems like Git enables programmers to track changes to their code, collaborate with others, and manage different versions of their projects effectively.
 
 &nbsp;
-> ### *Any questions?*
+> #### *Any questions?*
 > *[Submit here](https://github.com/bjafl-sps/PROG-101/discussions/new?category=q-a&labels=question%20about%20course%20material&title=%23INSERT_TITLE%23%20(from%2001_Core-Aspects.md))*
-&nbsp;
+
+> #### See also
+> - [Programming Languages](02_Programming-Languages.md)
+> - [Next Steps](99_Next_Steps.md)

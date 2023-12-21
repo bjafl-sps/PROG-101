@@ -15,11 +15,12 @@
 10. [Version Control and Collaboration](10_Version-Control-and-Collaboration.md)
 
 
-## See also
-- [Programming Languages](/Docs/02_Programming-Languages.md)
-- [Next Steps](/Docs/99_Next_Steps.md)
 
 &nbsp;
 
-> ### *Any questions?*
+> #### *Any questions?*
 > *[Submit here](https://github.com/bjafl-sps/PROG-101/discussions/new?category=q-a&labels=question%20about%20course%20material&title=%23INSERT_TITLE%23%20(from%2000_Intro.md))*
+
+> #### See also
+> - [Programming Languages](/Docs/02_Programming-Languages.md)
+> - [Next Steps](/Docs/99_Next_Steps.md)

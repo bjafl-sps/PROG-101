@@ -36,13 +36,6 @@ const config: Config = {
       'classic',
       {
         docs: {
-          lastVersion: "current",
-          versions: {
-            current: {
-              label: '1.0.0',
-              path: '1.0.0',
-            },
-          },
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.

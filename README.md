@@ -1,4 +1,4 @@
-# PROG-101 / PY-101 website source
+# PROG-101 / PY-101 website
 
 ## Course Overview
 

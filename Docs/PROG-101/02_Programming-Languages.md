@@ -6,7 +6,7 @@ sidebar_position: 3
 
 # Programming Languages
 
-In the [previous module](../00_Core-Aspects) we looked at general principles in programming. These principles are basic building blocks and concepts that are useful to be familiar with when starting out your journey into the world of programming. But to actually write code, you need to use a specific programming language. 
+In the [previous module](./00_Core-Aspects/00_Core-Aspects.md) we looked at general principles in programming. These principles are basic building blocks and concepts that are useful to be familiar with when starting out your journey into the world of programming. But to actually write code, you need to use a specific programming language. 
 
 Using a programming language will enable you to communicate with computers. The languages consist of a set of rules, symbols, and syntax that enable humans to write instructions that a computer can understand and execute.
 

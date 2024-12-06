@@ -1,5 +1,5 @@
 ---
-id: PY101-Intro
+id: Intro
 title: "Introduction to Python"
 ---
 

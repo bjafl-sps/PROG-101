@@ -26,25 +26,3 @@ To solve problems you need to first understand them well. Then you break down a 
 
 ### [6 Debugging and Testing](./06_Debugging-and-testing.md)
 Debugging is the process of finding and fixing errors or bugs in the code. Testing involves verifying that the code works as expected and handles various scenarios correctly. A code snippet often doesen't do exactly what you expected. When you are writing a text (for humans) it's normal to do some typos or gramatical errors that change the meaning of the text. Then you need to read over the text and maybe have a friend check it for you. It's the same when writing code for a computer, you need to check for typos or syntax errors to make sure the computer understands your intentions. 
-
-## More advanced topics
-
-### [7 Abstraction and Modularity](./07_Abstraction-and-modularity.md)
-These concepts involve breaking down complex systems into smaller, manageable parts (modularity) and hiding unnecessary details while focusing on essential features (abstraction).
-
-### [8 Data Structures](./08_Data-structures.md)
-Data structures are ways of organizing and storing data effectively, while algorithms are the methods used to manipulate this data. Understanding different data structures and algorithms helps in designing efficient programs.
-
-### [9 Object-Oriented Programming (OOP)](./09_Object-Oriented-Programming.md)
-OOP is a programming paradigm that organizes code into objects, each containing data and methods that operate on the data. It encourages reusability, modularity, and easier maintenance of code.
-
-### [10 Version Control and Collaboration](./10_Version-Control-and-Collaboration.md)
-Learning how to use version control systems like Git enables programmers to track changes to their code, collaborate with others, and manage different versions of their projects effectively.
-
-&nbsp;
-> #### *Any questions?*
-> *[Submit here](https://github.com/bjafl-sps/PROG-101/discussions/new?category=q-a&labels=question%20about%20course%20material&title=%23INSERT_TITLE%23%20(from%2001_Core-Aspects.md))*
-
-> #### See also
-> - [Programming Languages](02_Programming-Languages.md)
-> - [Next Steps](99_Next_Steps.md)

@@ -20,15 +20,4 @@ By mastering Python, you'll unlock a world of possibilities in software developm
 
 Embrace the journey ahead, stay curious, and continue exploring the vast and rewarding field of programming. Good luck on your next steps!
 
-## Start now!
-Follow [this link](https://github.com/bjafl-sps/PY-101) to learn python!
-> You need to be invited. [Click here](https://github.com/bjafl-sps/PROG-101/issues/new?labels=invite%20request&assignees=bjafl-sps&title=Invite%20Request%20PY-101) to request an invite, if the link over doesn't work.
 
-
-&nbsp;
-> #### *Any questions?*
-> *[Submit here](https://github.com/bjafl-sps/PROG-101/discussions/new?category=q-a&labels=question%20about%20course%20material&title=%23INSERT_TITLE%23%20(from%2099_Next_Steps.md))*
-
-> #### See also
-> - [Core Aspects of Programming](01_Core-Aspects.md)
-> - [Programming Languages](02_Programming-Languages.md)

@@ -23,18 +23,3 @@ To begin, you'll learn the basics of a programming language. Don't worry, these 
 Remember, programming is like solving fun puzzles and being a superhero who tells computers what to do. It's okay if things seem a bit tricky at first - that's part of the adventure! Soon enough, you'll be creating your own magic using code.
 
 Get ready to explore and have loads of fun while learning programming! 🚀✨
-
-# Venture forth!
-
-1. [Core aspects of programming](01_Core-Aspects.md)
-2. [Programming Languages](02_Programming-Languages.md)
-3. [Next steps](99_Next_Steps.md)
-
-&nbsp;
-
-> #### *Any questions?*
-> *[Submit here](https://github.com/bjafl-sps/PROG-101/discussions/new?category=q-a&labels=question%20about%20course%20material&title=%23INSERT_TITLE%23%20(from%2000_Intro.md))*
-
-> #### See also
-> - [Programming Languages](/Docs/02_Programming-Languages.md)
-> - [Next Steps](/Docs/99_Next_Steps.md)

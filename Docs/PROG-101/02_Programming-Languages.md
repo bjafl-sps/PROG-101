@@ -6,7 +6,7 @@ sidebar_position: 3
 
 # Programming Languages
 
-In the [previous module](01_Core-Aspects.md) we looked at general principles in programming. These principles are basic building blocks and concepts that are useful to be familiar with when starting out your journey into the world of programming. But to actually write code, you need to use a specific programming language. 
+In the [previous module](../00_Core-Aspects) we looked at general principles in programming. These principles are basic building blocks and concepts that are useful to be familiar with when starting out your journey into the world of programming. But to actually write code, you need to use a specific programming language. 
 
 Using a programming language will enable you to communicate with computers. The languages consist of a set of rules, symbols, and syntax that enable humans to write instructions that a computer can understand and execute.
 
@@ -67,11 +67,3 @@ Here is a list of some of the languages that are common. They are grouped accord
 - **Python**
 - **R**
 - **SQL**
-
-&nbsp;
-> #### *Any questions?*
-> *[Submit here](https://github.com/bjafl-sps/PROG-101/discussions/new?category=q-a&labels=question%20about%20course%20material&title=%23INSERT_TITLE%23%20(from%2002_Programming-Languages.md))*
-
-> #### See also
-> - [Core Aspects of Programming](01_Core-Aspects.md)
-> - [Next Steps](99_Next_Steps.md)

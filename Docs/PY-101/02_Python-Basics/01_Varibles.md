@@ -74,7 +74,3 @@ i = 1               # i is a common name for a counter e.g. in loops
 >- Can be followed by letters, digits (0-9), or underscores (_)
 >- Keywords (reserved words like `if`, `while` and `for`)  cannot be used as variable names
 >  
-> &nbsp;
-
-## Excercices
-Now it's time for you to get in some exercise! Head over to the [python gym](/PythonGym/) and have fun with [variables](/PythonGym/02_Python-basics/01_Variables.md) 💪

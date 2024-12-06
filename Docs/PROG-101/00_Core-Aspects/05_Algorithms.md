@@ -25,9 +25,3 @@ Algorithms are everywhere in the digital world – from search engine algorithms
 
 Understanding algorithms equips programmers with the tools to develop smarter, faster, and more optimized solutions to various problems, contributing to the creation of innovative and impactful software! 🚀👩‍💻
 
-&nbsp;
-> #### *Any questions?*
-> *[Submit here](https://github.com/bjafl-sps/PROG-101/discussions/new?category=q-a&labels=question%20about%20course%20material&title=%23INSERT_TITLE%23%20(from%2005_Algorithms.md))*
-&nbsp;
-
-*[&larr;Prev page](04_Control-structures.md)* | *[Next page&rarr;](06_Debugging-and-testing.md)*

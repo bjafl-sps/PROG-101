@@ -1,26 +1,37 @@
-# PROG-101
-Welcome to the Introduction to Programming course! This repository contains resources and materials to help you get started with programming from scratch.
+# PROG-101 / PY-101 website source
 
 ## Course Overview
-This course is designed for beginners with little to no programming experience. It offers an introduction to fundamental programming concepts, providing a stepping stone for learning a programming language. Keep in mind, this course covers the basics and is meant as a starting point. For a deeper dive into programming, consider continuing with an interactive course focused on a language like Python.
 
-## Topics Covered
-- Problem-Solving
-- Syntax and Logic
-- Data Types and Variables
-- Control Structures
-- Algorithms
-- Debugging and Testing
-- Abstraction and Modularity
-- Data Structures
-- Object-Oriented Programming (OOP)
-- Version Control and Collaboration
+This course is designed for beginners with little to no programming experience. It offers an introduction to fundamental programming concepts, providing a stepping stone for learning a programming language. It includes basic programming concepts, and an introduction to the Python programming language.
 
+## Website
+
+This project started as a series of markdown files, that now has been transformed to a website by the help of [docusaurus](https://docusaurus.io/). 
 
 ## Getting Started
-To get started with the course, [click here](Docs/00_Intro.md)!
 
-## Support
-If you have any questions or need assistance during the course, please don't hesitate to create an issue or ask a question in the Discussions tab.
+To get started with the course, [head over to the website](https://sps-prog101.netlify.app/) deployed at netlify.com 
 
-Good luck! 🚀
+### Build instructions
+
+Want to build this code or spin up a version on a local server of your own? 
+
+#### Installation
+```bash
+npm install
+```
+
+#### Local development server
+```bash
+npm start
+```
+
+#### Build
+
+```bash
+npm run build
+```
+
+#### Documentation
+
+Check out the [docs at docusaurus](https://docusaurus.io/docs)

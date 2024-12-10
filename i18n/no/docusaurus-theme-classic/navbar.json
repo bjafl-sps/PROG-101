@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Hjem",
+    "description": "Gå til fremsiden"
+  },
+  "logo.alt": {
+    "message": "Hjem",
+    "description": "Gå til fremsiden"
+  },
+  "item.label.PROG-101": {
+    "message": "PROG-101",
+    "description": "PROG-101"
+  },
+  "item.label.PY-101": {
+    "message": "PY-101",
+    "description": "PY-101"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "GitHub"
+  }
+}

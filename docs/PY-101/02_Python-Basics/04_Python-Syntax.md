@@ -1,11 +1,12 @@
 ---
 id: Python-Syntax
-title: "3. Introduction to Python Syntax"
+title: "2.4 Introduction to Python Syntax"
+sidebar_position: 3
 ---
 
 Python is a powerful, high-level programming language known for its simplicity and readability. It is widely used in various fields such as web development, data science, and automation. Python's syntax is clear and easy to learn, making it a great choice for beginners.
 
-## 3.1. **Comments**
+## 2.4.1. **Comments**
 In Python, comments are written using the `#` symbol. Comments are ignored by the Python interpreter and are used to explain the code.
 
 ```python
@@ -13,7 +14,7 @@ In Python, comments are written using the `#` symbol. Comments are ignored by th
 print("Hello, World!")  # This is an inline comment
 ```
 
-## 3.2. Indentation
+## 2.4.2. Indentation
 Unlike many programming languages that use braces `{ }` to define *blocks of code*, Python uses indentation. It is important to consistently use spaces (usually 4 spaces) or tabs for indentation. The line that introduces a new block of code should always end with `:`, and the next line should then always have its indentation (4 spaces / tab) increased by 1. There is no symbol that indicates the end of a code block, the block simply ends when the indentation is decreased.
 
 ```python
@@ -28,7 +29,7 @@ else:
 print("This is not indented") # Will run afterwards, regardless of condition
 ```
 
-## 3.3. Variables
+## 2.4.3. Variables
 Python is dynamically typed, which means you don't need to declare the type of a variable before using it. A variable is simply created by assigning a value.
 
 ```python
@@ -36,7 +37,7 @@ x = 10  # Creating a variable and assigning it a value
 y = 5
 ```
 
-## 3.4. Basic Operators
+## 2.4.4. Basic Operators
 Python supports basic mathematical operations like addition, subtraction, multiplication, and division.
 
 ```python
@@ -49,7 +50,7 @@ product = x * y      # Multiplication
 quotient = x / y     # Division
 ```
 
-## 3.5. Control Flow
+## 2.4.5. Control Flow
 
 Core functionality for controlling the logical flow of your program.
 
@@ -95,7 +96,7 @@ while count < 5:
     count += 1
 ```
 
-## 6. Functions
+## 2.4.6. Functions
 Functions in Python are defined using the `def` keyword. Functions help organize code into _reusable_ blocks. The definition of functions should always end with parentheses `()`. The parentheses may contain one or more _parameters_ that serve as input data for the function.
 
 ```python
@@ -109,7 +110,7 @@ greet()  # Calling the function
 greet_2("Bob")
 ```
 
-## 7. Basic Data Structures
+## 2.4.7. Basic Data Structures
 ### Lists
 Lists are used to store multiple items. They are defined with square brackets `[]`.
 

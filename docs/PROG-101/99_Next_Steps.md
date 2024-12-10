@@ -1,5 +1,7 @@
 ---
-sidebar_position: 4
+id: Next-Steps
+title: "Next steps"
+sidebar_position: 99
 ---
 
 # Now what?
@@ -21,3 +23,4 @@ By mastering Python, you'll unlock a world of possibilities in software developm
 Embrace the journey ahead, stay curious, and continue exploring the vast and rewarding field of programming. Good luck on your next steps!
 
 
+*Check out [PY-101](../PY-101/00_Intro.md) for an introduction to Python!*

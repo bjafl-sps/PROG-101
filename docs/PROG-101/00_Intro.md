@@ -1,7 +1,7 @@
 ---
 id: Intro
 title: "Introduction to Programming"
-sidebar_position: 1
+sidebar_position: 0
 ---
 
 # PROG101: Introduction to Programming 

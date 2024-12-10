@@ -2,7 +2,6 @@
   "label": "Python Basics",
   "position": 3,
   "link": {
-    "type": "doc",
-    "id": "Python-Basics"
+    "type": "generated-index"
   }
 }

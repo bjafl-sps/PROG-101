@@ -1,9 +1,12 @@
-# 2. Introduction to Data types
+---
+id: Data-Types
+title: "2.3 Introduction to Data types"
+sidebar_position: 3
+---
 
-## 2.1 What Are Data Types?
 Data types specify the kind of data that a variable can hold, such as integers, decimals, text, or more complex types like lists and dictionaries. The type of data defines the operations that can be performed on it and how it is stored in memory.
 
-## 2.2 Python's Built-in Data Types
+## 2.3.1 Python's Built-in Data Types
 Python is dynamically typed, which means you don't need to declare the type of a variable when you create one. However, understanding the types is crucial for effective programming in Python. Here’s a brief overview of the most common data types:
 
 ### Numeric Types:
@@ -81,7 +84,7 @@ Python is dynamically typed, which means you don't need to declare the type of a
     {'apple', 'banana', 'cherry'}
     ```
 
-## Why Understanding Data Types is Important
+## 2.3.2 Why Understanding Data Types is Important
 - Efficiency
     - Some types are more efficient for certain operations. For example, tuples are faster than lists for read-only operations.
 - Functionality
@@ -89,7 +92,7 @@ Python is dynamically typed, which means you don't need to declare the type of a
 - Safety
     - Certain operations are only valid for certain types, and mixing incompatible types can lead to errors. Understanding data types helps in writing error-free code.
 
-## *In essence*
+### *In essence*
 Data types are the building blocks of code logic in Python. By mastering the use of these types, you are laying the groundwork for more complex programming tasks and effective problem-solving.
 
 &nbsp;

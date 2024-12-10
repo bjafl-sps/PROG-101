@@ -1,6 +1,6 @@
 ---
 id: Core-Aspects
-title: "Core Aspects"
+title: "Grunnleggende elementer"
 ---
 
 ### [1 Problemløsning](01_Problem-Solving.md)

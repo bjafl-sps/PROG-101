@@ -27,8 +27,17 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'no',
+    locales: ['en', 'no'],
+    localeConfigs: {
+      en: {
+        htmlLang: 'en-GB',
+      },
+      no: {
+        htmlLang: 'nb-NO',
+        //direction: 'rtl'
+      },
+    },
   },
 
   presets: [
@@ -71,7 +80,7 @@ const config: Config = {
       title: 'Home',
       logo: {
         alt: 'Sanpro IT',
-        src: 'img/sanpro-it.png',
+        src: 'img/logo.png',
       },
       items: [
         {
@@ -86,11 +95,22 @@ const config: Config = {
           position: 'left',
           label: 'PY-101',
         },
+        {
+          type: 'docSidebar',
+          sidebarId: 'py101TasksSidebar',
+          position: 'left',
+          label: 'PY-101 Tasks',
+
+        },
         //{to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/bjafl-sps/PROG-101',
           label: 'GitHub',
           position: 'right',
+        },
+        {
+          type: 'localeDropdown',
+          position: 'left',
         },
       ],
     },

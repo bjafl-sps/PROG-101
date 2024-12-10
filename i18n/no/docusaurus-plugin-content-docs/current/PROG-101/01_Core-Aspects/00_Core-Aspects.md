@@ -3,26 +3,22 @@ id: Core-Aspects
 title: "Core Aspects"
 ---
 
-# Core Aspects of Programming
+### [1 Problemløsning](01_Problem-Solving.md)
+Programmering innebærer å bryte ned komplekse problemer i mindre, mer håndterbare deler og utforme algoritmer eller trinnvise prosedyrer for å løse dem.
 
-## The basics
+### [2 Syntaks og Logikk](02_Syntax-and-logic.md)
+Det er avgjørende å forstå syntaksen og de logiske strukturene i et programmeringsspråk. Syntaks refererer til reglene som styrer hvordan kode skrives, mens logikk involverer å lage sekvenser av instruksjoner som produserer ønsket resultat.
+Tenk på syntaks som grammatikk i et språk, det finnes regler i alle språk om hvordan man bygger setninger og tekster for å gjøre det forståelig. Å rote med grammatikken kan, i tillegg til å få leseren til å rynke på nesen, forvirre betydningen av budskapet ditt.
+I programmering betyr logikk å finne ut trinnvise instruksjoner som gir mening for en datamaskin. Det er som å lage en sti for datamaskinen å følge ved å sette opp regler og betingelser. God logikk hjelper koden å kjøre jevnt og gjøre de riktige tingene basert på forskjellige situasjoner eller inndata. Det handler om å sørge for at datamaskinen forstår hva du vil at den skal gjøre!
 
-### [1 Problem-Solving](01_Problem-Solving.md)
-Programming involves breaking down complex problems into smaller, more manageable parts and devising algorithms or step-by-step procedures to solve them.
+### [3 Datatyper og Variabler](03_Data-types-and-variables.md)
+Datatyper representerer forskjellige typer informasjon (som tall, tekst eller boolske verdier) som kan brukes og manipuleres i et program. Variabler er beholdere som inneholder verdier av disse datatypene, noe som gjør det mulig for programmerere å lagre og manipulere data dynamisk.
 
-### [2 Syntax and Logic](02_Syntax-and-logic.md)
-Understanding the syntax and logical structures of a programming language is crucial. Syntax refers to the rules governing how code is written, while logic involves creating sequences of instructions that produce the desired output. 
-Think of syntax as grammars in a language, there are rules in any language about how to build sentences and texts to make it understandable. Messing up grammar can, in addition to adding a frown on the readers face, confuse the meaning of your message. 
-In programming, logic means figuring out step-by-step instructions that make sense to a computer. It's like creating a path for the computer to follow by setting up rules and conditions. Good logic helps code run smoothly and do the right things based on different situations or inputs. It's all about making sure the computer understands what you want it to do!
+### [4 Kontrollstrukturer](04_Control-structures.md)
+Disse styrer utførelsesforløpet i et program. Eksempler inkluderer løkker (gjentakelse av et sett med instruksjoner), betingede setninger (utførelse av kode basert på visse betingelser) og funksjoner (gjenbrukbare kodeblokker).
 
-### [3 Data Types and Variables](03_Data-types-and-variables.md)
-Data types represent different kinds of information (such as numbers, text, or Boolean values) that can be used and manipulated within a program. Variables are containers that hold values of these data types, allowing programmers to store and manipulate data dynamically.
+### [5 Algoritmer](05_Algorithms.md)
+For å løse problemer må du først forstå dem godt. Deretter bryter du ned en løsning til trinnvise prosedyrer. Disse prosedyrene kalles algoritmer, og utvikling av effektive algoritmer er kjernen i programmering. Gode problemløsningsferdigheter, kreativitet og logiske ferdigheter er avgjørende for å lage effektive og optimaliserte algoritmer.
 
-### [4 Control Structures](04_Control-structures.md)
-These dictate the flow of execution within a program. Examples include loops (repeating a set of instructions), conditional statements (executing code based on certain conditions), and functions (reusable blocks of code).
-
-### [5 Algorithms](05_Algorithms.md)
-To solve problems you need to first understand them well. Then you break down a solution to step-by-step procedures. These procedures are called algorithms, and developing efficent algorithms is at the core of programming. Good problem-solving skills, creativity and logic skills are crucial in creating effective and optimized algorithms.
-
-### [6 Debugging and Testing](06_Debugging-and-testing.md)
-Debugging is the process of finding and fixing errors or bugs in the code. Testing involves verifying that the code works as expected and handles various scenarios correctly. A code snippet often doesen't do exactly what you expected. When you are writing a text (for humans) it's normal to do some typos or gramatical errors that change the meaning of the text. Then you need to read over the text and maybe have a friend check it for you. It's the same when writing code for a computer, you need to check for typos or syntax errors to make sure the computer understands your intentions. 
+### [6 Feilsøking og Testing](06_Debugging-and-testing.md)
+Feilsøking er prosessen med å finne og fikse feil eller bugs i koden. Testing innebærer å verifisere at koden fungerer som forventet og håndterer ulike scenarioer korrekt. En kodesnutt gjør ofte ikke nøyaktig det du forventet. Når du skriver en tekst (for mennesker) er det normalt å gjøre noen skrivefeil eller grammatiske feil som endrer betydningen av teksten. Da må du lese over teksten og kanskje få en venn til å sjekke den for deg. Det er det samme når du skriver kode for en datamaskin, du må sjekke for skrivefeil eller syntaksfeil for å være sikker på at datamaskinen forstår intensjonene dine.

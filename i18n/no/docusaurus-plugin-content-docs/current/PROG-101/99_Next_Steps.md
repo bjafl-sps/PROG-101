@@ -1,9 +1,8 @@
 ---
 id: Next-Steps
-title: "Next steps"
+title: "Neste steg"
 sidebar_position: 99
 ---
-Her er den norske oversettelsen:
 
 # Hva nå?
 

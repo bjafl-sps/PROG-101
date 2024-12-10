@@ -81,6 +81,8 @@ const config: Config = {
       logo: {
         alt: 'Sanpro IT',
         src: 'img/logo.png',
+        srcDark: 'img/logo_dark.png'
+
       },
       items: [
         {
@@ -159,6 +161,13 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
+    themeConfig: {
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: true
+      }
+    }
   } satisfies Preset.ThemeConfig,
 };
 

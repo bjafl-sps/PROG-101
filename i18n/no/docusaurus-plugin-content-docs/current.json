@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.prog101Sidebar.category.Core Aspects": {
+    "message": "Core Aspects",
+    "description": "The label for category Core Aspects in sidebar prog101Sidebar"
+  },
+  "sidebar.prog101Sidebar.category.More Advanced Topics": {
+    "message": "More Advanced Topics",
+    "description": "The label for category More Advanced Topics in sidebar prog101Sidebar"
+  },
+  "sidebar.py101Sidebar.category.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label for category Getting Started in sidebar py101Sidebar"
+  },
+  "sidebar.py101Sidebar.category.Python Basics": {
+    "message": "Python Basics",
+    "description": "The label for category Python Basics in sidebar py101Sidebar"
+  }
+}

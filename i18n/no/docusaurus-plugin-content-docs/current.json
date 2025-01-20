@@ -1,10 +1,10 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Neste",
     "description": "The label for version current"
   },
   "sidebar.prog101Sidebar.category.Core Aspects": {
-    "message": "Core Aspects",
+    "message": "Grunnleggende elementer",
     "description": "The label for category Core Aspects in sidebar prog101Sidebar"
   },
   "sidebar.prog101Sidebar.category.More Advanced Topics": {

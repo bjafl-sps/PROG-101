@@ -104,6 +104,13 @@ const config: Config = {
           label: 'PY-101 Tasks',
 
         },
+        {
+          type: 'docSidebar',
+          sidebarId: 'itDriftTasksSidebar',
+          position: 'left',
+          label: 'IT-drift',
+
+        },
         //{to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/bjafl-sps/PROG-101',
@@ -129,6 +136,10 @@ const config: Config = {
             {
               label: 'PY-101',
               to: '/docs/PY-101/Intro',
+            },
+            {
+              label: 'IT-drift',
+              to: '/docs/IT-drift/Intro',
             },
           ],
         },

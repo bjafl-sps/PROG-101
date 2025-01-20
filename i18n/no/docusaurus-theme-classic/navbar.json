@@ -1,22 +1,30 @@
 {
   "title": {
     "message": "Hjem",
-    "description": "Gå til fremsiden"
+    "description": "The title in the navbar"
   },
   "logo.alt": {
     "message": "Hjem",
-    "description": "Gå til fremsiden"
+    "description": "The alt text of navbar logo"
   },
   "item.label.PROG-101": {
     "message": "PROG-101",
-    "description": "PROG-101"
+    "description": "Navbar item with label PROG-101"
   },
   "item.label.PY-101": {
     "message": "PY-101",
-    "description": "PY-101"
+    "description": "Navbar item with label PY-101"
+  },
+  "item.label.IT-drift": {
+    "message": "IT-drift",
+    "description": "Navbar item with label IT-drift"
   },
   "item.label.GitHub": {
     "message": "GitHub",
-    "description": "GitHub"
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.PY-101 Tasks": {
+    "message": "PY-101 Tasks",
+    "description": "Navbar item with label PY-101 Tasks"
   }
 }

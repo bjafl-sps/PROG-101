@@ -11,6 +11,10 @@
     "message": "PY-101",
     "description": "The label of footer link with label=PY-101 linking to /docs/PY-101/Intro"
   },
+  "link.item.label.IT-drift": {
+    "message": "PY-101",
+    "description": "The label of footer link with label=IT-drift linking to /docs/IT-drift/Intro"
+  },
   "copyright": {
     "message": "MIT",
     "description": "The footer copyright"

@@ -1,6 +1,6 @@
 {
   "name": "sps-prog-101",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -11,6 +11,7 @@
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
+    "write-translations-no": "docusaurus write-translations --locale no",
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc"
   },

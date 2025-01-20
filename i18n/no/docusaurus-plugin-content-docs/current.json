@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "Neste",
+    "description": "The label for version current"
+  },
+  "sidebar.prog101Sidebar.category.Core Aspects": {
+    "message": "Grunnleggende elementer",
+    "description": "The label for category Core Aspects in sidebar prog101Sidebar"
+  },
+  "sidebar.prog101Sidebar.category.More Advanced Topics": {
+    "message": "More Advanced Topics",
+    "description": "The label for category More Advanced Topics in sidebar prog101Sidebar"
+  },
+  "sidebar.py101Sidebar.category.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label for category Getting Started in sidebar py101Sidebar"
+  },
+  "sidebar.py101Sidebar.category.Python Basics": {
+    "message": "Python Basics",
+    "description": "The label for category Python Basics in sidebar py101Sidebar"
+  },
+  "sidebar.py101TasksSidebar.category.Solutions": {
+    "message": "Solutions",
+    "description": "The label for category Solutions in sidebar py101TasksSidebar"
+  },
+  "sidebar.itDriftTasksSidebar.category.Homelab 1": {
+    "message": "Homelab 1",
+    "description": "The label for category Homelab 1 in sidebar itDriftTasksSidebar"
+  },
+  "sidebar.itDriftTasksSidebar.category.Forberedelser": {
+    "message": "Forberedelser",
+    "description": "The label for category Forberedelser in sidebar itDriftTasksSidebar"
+  }
+}

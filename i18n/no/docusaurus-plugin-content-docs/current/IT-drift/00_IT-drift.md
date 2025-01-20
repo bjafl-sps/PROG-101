@@ -1,5 +1,5 @@
 ---
-id: intro
+id: Intro
 title: "IT drift"
 sidebar-position: 1
 ---

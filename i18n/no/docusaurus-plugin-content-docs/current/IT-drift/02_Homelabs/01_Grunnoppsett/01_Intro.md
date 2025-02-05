@@ -3,20 +3,17 @@ id: Intro
 title: "Homelab 1"
 ---
 
-# Homelab: Virtuell Webserver - Introduksjon
+# Homelab: Virtuell Linux server - Introduksjon
 
 Dette prosjektet gir deg praktisk erfaring med grunnleggende IT-infrastruktur. Du skal sette opp en virtuell server med webserver, noe som gir deg innblikk i flere sentrale aspekter ved IT-drift.
 
 ## Hva du vil lære
 - Virtualisering og håndtering av virtuelle maskiner
-- Linux serveradministrasjon
-- Nettverkskonfigurering
-- Grunnleggende sikkerhet
-- Installasjon og drift av webtjenester
-- Dokumentasjon av teknisk oppsett
+- Installasjon av OS (Linux)
+- Litt om Linux og terminal
 
 ## Hvorfor dette er nyttig
-I moderne IT-drift er dette grunnleggende ferdigheter som brukes daglig. Virtualiseringsplattformer brukes i både sky- og lokale miljøer, Linux er utbredt i servermiljøer, og webservere er en av de mest vanlige tjenestene å drifte. Gjennom prosjektet får du også erfaring med sikker tilkobling og systemadministrasjon.
+I moderne IT-drift er dette grunnleggende ferdigheter som brukes daglig. Virtualiseringsplattformer brukes i både sky- og lokale miljøer, Linux er utbredt i servermiljøer, og webservere er en av de mest vanlige tjenestene å drifte. Gjennom denne første lab-en vil du lære litt om Linux og virtuelle miljøer, og legge grunnlaget for videre oppgaver relatert til linux og servere.
 
 ## Forutsetninger
 Du trenger:
@@ -26,7 +23,7 @@ Du trenger:
 - Tålmodighet og systematisk tilnærming
 
 ## Tidsestimat og nivå
-- Tidsbruk: 3-6 timer for grunnoppsett
+- Tidsbruk: 1-3 timer 
 - Vanskelighetsgrad: Nybegynner/middels
 - Bygger grunnlag for videre læring
 

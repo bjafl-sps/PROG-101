@@ -1,0 +1,81 @@
+---
+id: grep
+title: "4.2 - Søk etter tekst med grep"
+sidebar-position: 2
+---
+
+# 4.2 - Søk etter tekst med `grep`
+
+`grep` er et verktøy for å søke etter tekst i filer. Navnet kommer fra "Global Regular Expression Print".
+
+## Grunnleggende bruk
+
+```py
+# Søk etter et ord i en fil
+grep "ordet" fil.txt
+
+# Søk i flere filer
+grep "ordet" *.txt
+
+# Søk i alle filer i alle mapper
+grep -r "ordet" .
+```
+
+## Nyttige flagg (opsjoner)
+
+```py
+# Ignorer store/små bokstaver
+grep -i "Ordet" fil.txt      # Finner "ordet", "ORDET", "Ordet" osv.
+
+# Vis linjenummer
+grep -n "ordet" fil.txt      # Viser hvilken linje ordet ble funnet på
+
+# Vis antall treff
+grep -c "ordet" fil.txt      # Teller hvor mange ganger ordet forekommer
+
+# Vis flere linjer rundt treffet
+grep -A 1 "ordet" fil.txt    # Viser også linjen etter treffet
+grep -B 1 "ordet" fil.txt    # Viser også linjen før treffet
+```
+
+## Praktiske eksempler
+
+```py
+# Finn alle Python-filer som inneholder ordet "import"
+grep -r "import" . --include="*.py"
+
+# Søk etter feilmeldinger i en loggfil
+grep "ERROR" logg.txt
+
+# Finn linjer som ikke inneholder et ord
+grep -v "test" fil.txt
+
+# Søk etter hele ord (ikke deler av ord)
+grep -w "test" fil.txt    # Finner "test" men ikke "testing"
+```
+
+## Bruk med ls (pipe)
+
+```py
+# Finn filer som inneholder "test"
+ls | grep "test"
+
+# Finn Python-filer
+ls | grep ".py"
+
+# Finn filer som begynner med "data"
+ls | grep "^data"
+
+# Kombiner med andre flagg
+ls -l | grep "jan"    # Finn filer endret i januar
+ls -l | grep "^d"     # Vis bare mapper
+ls -l | grep "^-"     # Vis bare filer
+```
+
+:::tip Tips
+- Bruk anførselstegn rundt søkeordet
+- Start med enkle søk og legg til flagg etter behov
+- Bruk piltaster for å hente tidligere kommandoer
+- Trykk Tab for å autofullføre filnavn
+- `|` (pipe) sender output fra én kommando til en annen
+:::

@@ -1,5 +1,5 @@
 ---
-id: Setting-Up-PY-Environment
+id: setting-up-py-environment
 title: "Setting up Python Environment"
 ---
 

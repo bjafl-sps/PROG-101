@@ -6,4 +6,4 @@ sidebar-position: 1
 
 # IT drift
 
-Siden under bygging... Sjekk ut [Homelab 1](Homelab-1/Intro)
+Siden under bygging... Sjekk ut [Homelabs](./02_Homelabs/01_Intro.md)

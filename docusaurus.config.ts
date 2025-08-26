@@ -99,6 +99,13 @@ const config: Config = {
         },
         {
           type: 'docSidebar',
+          sidebarId: 'pyExtrasSidebar',
+          position: 'left',
+          label: 'PY-Extras',
+
+        },
+        {
+          type: 'docSidebar',
           sidebarId: 'py101TasksSidebar',
           position: 'left',
           label: 'PY-101 Tasks',

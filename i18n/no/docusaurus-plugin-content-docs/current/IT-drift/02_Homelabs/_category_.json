@@ -1,6 +1,6 @@
 {
-  "label": "Homelab 1",
-  "position": 1,
+  "label": "Homelabs",
+  "position": 2,
   "link": {
     "type": "doc",
     "id": "Intro"

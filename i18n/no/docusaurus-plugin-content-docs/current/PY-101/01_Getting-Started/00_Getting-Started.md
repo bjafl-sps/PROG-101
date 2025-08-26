@@ -1,4 +1,4 @@
 ---
 id: Getting-Started
-title: "Getting Started"
+title: "Kom i gang"
 ---
